@@ -1,0 +1,33 @@
+.App {
+  
+}
+
+.form {
+  max-width: 50%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
+}
+
+.header {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: gray;
+}
+
+.header-step {
+  margin-top: 0;
+  font-size: 0.75rem;
+  font-weight: bold;
+  color: gray;
+}
+
+.step-container {
+  width: 100px;
+  display: flex;
+  flex-direction: column;
+}
